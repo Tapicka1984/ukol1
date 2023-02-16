@@ -1,0 +1,11 @@
+C:\Users\tapic\source\repos\ukol1\ukol1\bin\Debug\ukol1.exe.config
+C:\Users\tapic\source\repos\ukol1\ukol1\bin\Debug\ukol1.exe
+C:\Users\tapic\source\repos\ukol1\ukol1\bin\Debug\ukol1.pdb
+C:\Users\tapic\source\repos\ukol1\ukol1\obj\Debug\ukol1.csproj.AssemblyReference.cache
+C:\Users\tapic\source\repos\ukol1\ukol1\obj\Debug\ukol1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tapic\source\repos\ukol1\ukol1\obj\Debug\ukol1.Form1.resources
+C:\Users\tapic\source\repos\ukol1\ukol1\obj\Debug\ukol1.Properties.Resources.resources
+C:\Users\tapic\source\repos\ukol1\ukol1\obj\Debug\ukol1.csproj.GenerateResource.cache
+C:\Users\tapic\source\repos\ukol1\ukol1\obj\Debug\ukol1.csproj.CoreCompileInputs.cache
+C:\Users\tapic\source\repos\ukol1\ukol1\obj\Debug\ukol1.exe
+C:\Users\tapic\source\repos\ukol1\ukol1\obj\Debug\ukol1.pdb
